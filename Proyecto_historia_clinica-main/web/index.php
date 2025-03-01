@@ -18,4 +18,6 @@
     include_once '../view/partials/footer.php';
     echo("Prueba");
 
+    echo ("prueba2")
+
 ?>
